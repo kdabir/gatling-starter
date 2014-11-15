@@ -7,5 +7,12 @@ A skeleton project for performance testing of your web application
 
 - clone the repo
 
-- ./sbt update
+- run `./sbt test` to run existing test(s)
+
+- run `./sbt startRecorder` to run the recorder
+
+    - set the browser to use the proxy
+    - record your user journeys
+
+-
 
