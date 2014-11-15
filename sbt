@@ -1,0 +1,1 @@
+java -Xms512M -Xmx1536M -Dfile.encoding=UTF-8 -jar `dirname $0`/sbt-launch.jar "$@"
